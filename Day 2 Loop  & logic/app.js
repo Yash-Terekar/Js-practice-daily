@@ -1,6 +1,12 @@
-let i = 20;
+let car = {
+  type: "BMW",
+  model: "M5Comp",
+  color: "Blue",
+};
+console.log(typeof car);
 
-do {
-  console.log("YashTerekar", i);
-  i++;
-} while (i <= 30);
+car.type = "Toyota";
+console.log(car);
+
+car.wheels = "Alloy";
+console.log(car);
