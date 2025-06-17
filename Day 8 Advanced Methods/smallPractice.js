@@ -51,4 +51,4 @@ const { name, age } = person;
 
 const arr = [1, 2, 3];
 const [a, b] = arr;
-console.log(a + b);
+// console.log(a + b);
