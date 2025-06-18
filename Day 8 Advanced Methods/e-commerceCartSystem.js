@@ -13,16 +13,14 @@ const cart = [
   { id: 6, name: "Cheese", price: 200, quantity: 1, category: "Dairy" }, // Added for a duplicate category
   { id: 7, name: "Chips", price: 50, quantity: 2, category: "Snacks" }, // Added for a duplicate category
 ];
-const totalCost = cart.reduce((p, c) => p + c.price, 0);
-console.log(`Total cart value: ${totalCost}`);
 
-const filter = cart.filter((a) => a.price > 1000).map((a) => a.name);
-console.log(`Item price more than 1000 are ${filter}`);
+const totalValue = cart.reduce((p, c) => p + c.price, 0);
+console.log(`Total value of cart: ${totalValue}`);
 
-const allcatagory = cart.map((a) => a.category);
-console.log(allcatagory);
+const expensiveItems = cart.filter((a) => a.price > 1000).map((i) => i.name);
+console.log(`Expensive items: ${expensiveItems}`);
 
-const set = new Set(allcatagory);
-const uniqueCategoriesArray = [...set];
-
-console.log("Unique Categories:", uniqueCategoriesArray);
+const category = cart.map((a) => a.category);
+const set = new Set(category);
+const setArr = [...set];
+console.log(set);
