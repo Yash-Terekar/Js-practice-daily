@@ -4,4 +4,4 @@ let total = 0;
 for (let i = 0; i < cart.length; i++) {
   total += cart[i];
 }
-console.log("Total Amount is: ", total);
+console.log("Total amount of cart is: ", total);
