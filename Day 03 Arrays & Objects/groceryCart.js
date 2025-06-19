@@ -10,4 +10,4 @@ for (let i = 0; i < cart.length; i++) {
   console.log(`${itemName} - ₹${cart[i].price}`);
   total += cart[i].price;
 }
-console.log(`Total : ${total}`);
+console.log(`Total amount: ${total}`);
