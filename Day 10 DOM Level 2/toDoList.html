@@ -1,0 +1,41 @@
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>To Do List</title>
+    <style>
+      section {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
+      .input {
+        font-size: 2rem;
+        padding: 20px 40px;
+      }
+      button {
+        font-size: 2rem;
+        background: rgb(226, 124, 144);
+        margin-left: 40px;
+        padding: 10px 30px;
+      }
+      ul {
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+      }
+      li {
+        margin-top: 10px;
+        font-size: 2rem;
+      }
+    </style>
+  </head>
+  <body>
+    <section>
+      <input type="text" class="input" />
+      <button>Add Task</button>
+    </section>
+    <ul></ul>
+    <script src="toDoList.js"></script>
+  </body>
+</html>
