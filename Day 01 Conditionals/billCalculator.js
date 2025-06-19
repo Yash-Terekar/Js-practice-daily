@@ -1,4 +1,4 @@
-let unit = 350;
+let unit = 340;
 let rate;
 
 if (unit <= 100) {
