@@ -1,5 +1,5 @@
 let emailVerified = true;
-let phoneVerified = true;
+let phoneVerified = false;
 
 if (emailVerified === true && phoneVerified === true) {
   console.log("Welcome cheff");
