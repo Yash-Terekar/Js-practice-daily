@@ -1,7 +1,7 @@
 let car = {
   type: "BMW",
   model: "M5Comp",
-  color: "Blue",
+  color: "Black",
 };
 console.log(typeof car);
 
