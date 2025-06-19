@@ -1,4 +1,4 @@
-let day = 4;
+let day = 2;
 
 if (day == 1) {
   console.log("Sunday");
