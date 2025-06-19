@@ -6,5 +6,5 @@ for (let i = 0; i < marks.length; i++) {
 }
 let average = total / marks.length;
 
-console.log(`Total marks are: ${total}`);
+console.log(`Total marks: ${total}`);
 console.log(average);
