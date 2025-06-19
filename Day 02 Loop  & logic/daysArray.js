@@ -8,6 +8,6 @@ let days = [
   "Saturday",
 ];
 
-for (let i = 0; i < days.length; i++) {
-  console.log(`Day ${i + 1} ${days[i]}`);
+for (let index = 0; index < days.length; index++) {
+  console.log(`Day ${index + 1} ${days[index]}`);
 }
