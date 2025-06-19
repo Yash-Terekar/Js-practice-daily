@@ -5,8 +5,6 @@ let devs = [
   { name: "Aniket", github: "https://github.com/Aniket" },
   { name: "Shreyash", github: "https://github.com/Shreyash" },
   { name: "Ravindra", github: "https://github.com/Ravindra" },
-  { name: "Nash", github: "https://github.com/Nash" },
-  { name: "Nakul", github: "https://github.com/Nakul" },
 ];
 
 for (let i = 0; i < devs.length; i++) {
