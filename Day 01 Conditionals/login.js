@@ -1,7 +1,7 @@
 let admin = "Yash";
-let pass = "123";
+let pass = "1234";
 
-if (admin == "Yash" && pass == "123") {
+if (admin == "Yash" && pass == "1234") {
   console.log("Welcome back cheff");
 } else {
   console.log("You are not Registerd");
