@@ -1,5 +1,5 @@
-for (i = 0; i <= 50; i++) {
-  if (i % 2 === 0) {
-    console.log(i);
+for (index = 0; index <= 50; index++) {
+  if (index % 2 === 0) {
+    console.log(index);
   }
 }
