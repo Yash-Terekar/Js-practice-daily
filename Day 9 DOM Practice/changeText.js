@@ -6,7 +6,7 @@ const p = document.querySelector("p");
 const button = document.querySelector("button");
 
 button.addEventListener("click", () => {
-  const newP = "Yash Terekar is good programmer";
+  const newP = "HuXn Webdev is a Goat";
 
   p.textContent = newP;
 });
