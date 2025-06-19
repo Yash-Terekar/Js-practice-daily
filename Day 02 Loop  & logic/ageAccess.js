@@ -1,4 +1,4 @@
-let users = [16, 22, 46, 12, 18, 26, 4];
+let users = [16, 22, 46, 12, 18, 26, 4, 8];
 
 for (let i = 0; i <= users.length; i++) {
   if (users[i] >= 18) {
