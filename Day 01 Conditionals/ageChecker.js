@@ -1,6 +1,6 @@
 let age = 65;
 
-if (age <= 4) {
+if (age <= 3) {
   console.log("Baby");
 } else if (age <= 12) {
   console.log("Child");
