@@ -1,4 +1,4 @@
-let cart = 400;
+let cart = 420;
 
 if (cart >= 1000) {
   console.log("You will get 30% discount");
