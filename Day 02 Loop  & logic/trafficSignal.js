@@ -1,3 +1,4 @@
+// Traffc Signal Sorting
 let color = "Green";
 
 switch (color) {
