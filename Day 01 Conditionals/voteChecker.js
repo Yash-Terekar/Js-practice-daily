@@ -1,5 +1,5 @@
 let nationality = "Indian";
-let age = 22;
+let age = 24;
 
 if (nationality.toLowerCase() == "indian") {
   if (age >= 18) {
