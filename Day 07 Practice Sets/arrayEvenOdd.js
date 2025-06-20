@@ -1,4 +1,4 @@
-const array = [2, 3, 8, 6, 75, 34, 43, 63, 46];
+const array = [2, 3, 8, 6, 5, 34, 43, 63, 46];
 
 function separateEvenOdd(number) {
   if (number % 2 == 0) {
