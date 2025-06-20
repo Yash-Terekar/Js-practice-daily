@@ -1,4 +1,4 @@
-// 2. Find if all users are adults (age > 18)
+// 1. Find if all users are adults (age > 18)
 
 const students = [
   { name: "Yash", age: 22 },
