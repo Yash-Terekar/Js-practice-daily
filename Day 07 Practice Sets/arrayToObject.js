@@ -1,4 +1,4 @@
-// 4. Convert array of objects to an object (use reduce)
+// 3. Convert array of objects to an object (use reduce)
 
 const arr = [
   { id: 1, name: "A" },
