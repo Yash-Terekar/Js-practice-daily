@@ -1,6 +1,6 @@
 const product = {
   id: 1,
-  name: "Mouse",
+  name: "Keyboard",
   price: 500,
 };
 
