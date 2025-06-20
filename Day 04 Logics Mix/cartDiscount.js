@@ -1,5 +1,5 @@
 let cart = [
-  { item: "Bag", price: 900 },
+  { item: "Bag", price: 800 },
   { item: "Shoes", price: 1200 },
   { item: "Watch", price: 2500 },
 ];
