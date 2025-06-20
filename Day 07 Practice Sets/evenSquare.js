@@ -1,4 +1,4 @@
-// 1. Filter even numbers and square them
+// 4. Filter even numbers and square them
 
 const list = [1, 2, 3, 4, 5, 6, 24];
 
