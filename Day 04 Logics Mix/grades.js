@@ -1,7 +1,7 @@
 let students = [
   { name: "Yash", marks: 88 },
   { name: "Ravi", marks: 66 },
-  { name: "Priya", marks: 59 },
+  { name: "Priya", marks: 58 },
   { name: "Amit", marks: 38 },
 ];
 
