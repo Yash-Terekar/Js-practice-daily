@@ -6,7 +6,7 @@ let employees = [
   { name: "Yash", dept: "Web", role: "Ai" },
   { name: "Ayush", dept: "HR", role: "Manager" },
 ];
-let search = "ayush";
+let search = "yash";
 
 for (let employee of employees) {
   if (
