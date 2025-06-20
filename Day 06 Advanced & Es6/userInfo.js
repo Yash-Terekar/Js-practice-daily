@@ -1,4 +1,4 @@
-const user = { name: "Yash", age: 22, city: "Mumbai" };
+const user = { name: "Yash", age: 22, city: "Pune" };
 
 const { name, age, city } = user;
 
