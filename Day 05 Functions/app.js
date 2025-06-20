@@ -1,10 +1,10 @@
-let count = 5;
+let counter = 5;
 
 const interval = setInterval(() => {
-  console.log(count);
-  count--;
+  console.log(counter);
+  counter--;
 
-  if (count < 0) {
+  if (counter < 0) {
     clearInterval(interval);
   }
 }, 1000);
