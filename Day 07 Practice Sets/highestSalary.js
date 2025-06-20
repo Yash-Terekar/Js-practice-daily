@@ -1,4 +1,4 @@
-// 5. Find user with highest salary
+// 6. Find user with highest salary
 const employee = [
   { name: "Aniket", salary: 31000 },
   { name: "Yash", salary: 46000 },
