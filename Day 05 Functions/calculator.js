@@ -1,6 +1,6 @@
 function calculator(num1, num2, operation) {
   if (typeof num1 !== "number" || typeof num2 !== "number") {
-    console.log("Invalid input please provide valid numbers");
+    console.log("Invalid inputs please provide valid numbers");
   }
   switch (operation) {
     case "mul":
