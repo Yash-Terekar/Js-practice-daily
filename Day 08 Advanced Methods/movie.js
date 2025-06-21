@@ -11,7 +11,7 @@ const movies = [
 const highRated = movies.filter((a) => a.rating > 7).map((t) => t.title);
 console.log(`High rated movies: ${highRated}`);
 
-const title = "Golmaal";
+const title = "RRR";
 const find = movies.find((a) => a.title === title);
 console.log(find);
 
