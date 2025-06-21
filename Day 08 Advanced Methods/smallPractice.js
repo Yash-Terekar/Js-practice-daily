@@ -49,6 +49,6 @@ const person = { name: "Yash", age: 22, city: "Pune" };
 const { name, age } = person;
 // console.log(name, age);
 
-const arr = [1, 2, 3];
+const arr = [1, 2, 3, 4];
 const [a, b] = arr;
 // console.log(a + b);

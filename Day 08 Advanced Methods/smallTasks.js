@@ -1,4 +1,4 @@
-// Double the even numbers only:
+// Double the even numbers only
 const nums = [3, 6, 9, 12, 15];
 const double = nums.map((num) => num * 2);
 // console.log(double);

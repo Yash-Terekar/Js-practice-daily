@@ -20,7 +20,7 @@ const all = users.every((a) => a.age > 10);
 const items = [
   { item: "Pen", price: 10 },
   { item: "Notebook", price: 40 },
-  { item: "Scale", price: 15 },
+  { item: "Scale", price: 14 },
 ];
 const total = items.reduce((p, c) => p + c.price, 0);
 // console.log(total);
