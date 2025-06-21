@@ -35,6 +35,6 @@ button.addEventListener("click", () => {
     input.value = "";
     input.focus();
   } else {
-    alert("Please Provide Task");
+    alert("Please provide valid input");
   }
 });
