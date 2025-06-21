@@ -1,6 +1,6 @@
 // 5. Input Character Counter
 // A textarea + live character counter
-// As the user types, show the number of characters typed
+// As the user types, show the number of characters typed.
 
 const input = document.querySelector("input");
 
