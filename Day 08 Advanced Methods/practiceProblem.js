@@ -1,9 +1,9 @@
 // 1. Use filter + map 👉Get names of all users who are 18+ only
 const users = [
-  { name: "Aman", age: 17 },
+  { name: "Yash", age: 17 },
   { name: "Preeti", age: 22 },
-  { name: "Raj", age: 18 },
-  { name: "Sara", age: 15 },
+  { name: "Aditya", age: 18 },
+  { name: "Aniket", age: 15 },
 ];
 const user = users.filter((a) => a.age >= 18).map((a) => a.name);
 // console.log(user);
