@@ -1,7 +1,7 @@
 const cart = [
   { id: 1, name: "Milk", price: 30, quantity: 2, category: "Dairy" },
   { id: 2, name: "Biscuit", price: 80, quantity: 4, category: "Snacks" },
-  { id: 3, name: "Oil", price: 1100, quantity: 3, category: "Cooking" },
+  { id: 3, name: "Oil", price: 1100, quantity: 2, category: "Cooking" },
   { id: 4, name: "Bread", price: 60, quantity: 1, category: "Bakery" },
   {
     id: 5,
