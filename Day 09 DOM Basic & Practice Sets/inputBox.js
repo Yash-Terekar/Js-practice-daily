@@ -1,6 +1,6 @@
 // 2. Add Items to a List
 // One input box + “Add” button
-// When user types and clicks "Add", the item appears in a list below.
+// When user types and clicks "Add", the item appears in a list below
 
 const input = document.querySelector("input");
 const button = document.querySelector("button");
