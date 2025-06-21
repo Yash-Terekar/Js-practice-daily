@@ -1,6 +1,6 @@
 // 8. Form Submission
 // Build a form with name + email
-// On submit, prevent page reload and show the entered data below the form
+// On submit, prevent page reload and show the entered data below the form.
 
 const input1 = document.querySelector("input");
 const input2 = document.querySelector(".mail");
