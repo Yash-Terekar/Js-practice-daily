@@ -4,7 +4,7 @@
 // Display added tasks in a list
 // Each task has a “Done” & “Delete” button
 //      “Done” adds a line-through style
-//      “Delete” removes the task
+//      “Delete” removes the task.
 
 const input = document.querySelector(".input");
 const button = document.querySelector("button");
