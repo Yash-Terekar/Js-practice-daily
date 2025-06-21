@@ -1,8 +1,8 @@
 const students = [
   { id: 1, name: "Yash", marks: [80, 75, 90], city: "Pune" },
-  { id: 2, name: "Aman", marks: [60, 35, 70], city: "Mumbai" },
+  { id: 2, name: "Aniket", marks: [60, 35, 70], city: "Mumbai" },
   { id: 3, name: "Neha", marks: [90, 95, 85], city: "Pune" },
-  { id: 4, name: "Rahul", marks: [30, 80, 70], city: "Delhi" },
+  { id: 4, name: "Aditya", marks: [30, 80, 70], city: "Delhi" },
   { id: 5, name: "Priya", marks: [45, 60, 50], city: "Pune" },
 ];
 
