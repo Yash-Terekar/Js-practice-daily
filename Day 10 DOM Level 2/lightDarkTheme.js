@@ -1,6 +1,6 @@
 // 7. Toggle Light/Dark Theme
 // A toggle switch or button
-// When clicked, it adds/removes a dark-mode class to <body>
+// When clicked, it adds/removes a dark-mode class to <body>.
 
 const button = document.querySelector("button");
 const body = document.body;
