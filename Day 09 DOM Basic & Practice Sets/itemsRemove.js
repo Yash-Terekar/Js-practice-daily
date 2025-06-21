@@ -1,6 +1,6 @@
 // 3. Remove Items from List
 // Next to every list item, show a ❌ button
-// When clicked, it removes that list item using .remove().
+// When clicked, it removes that list item using .remove()
 
 const input = document.querySelector("input");
 const button = document.querySelector("button");
