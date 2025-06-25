@@ -1,0 +1,19 @@
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #2f2f2f;
+}
+
+ul {
+  display: flex;
+}
+ul li {
+  list-style: none;
+  margin: 20px;
+  width: 50px;
+  height: 50px;
+
+  background-color: crimson;
+  border-radius: 50px;
+}
