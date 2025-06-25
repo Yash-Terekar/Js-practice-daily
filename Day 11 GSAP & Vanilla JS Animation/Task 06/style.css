@@ -1,0 +1,13 @@
+body {
+  background: #330d3e;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.hover-btn {
+  padding: 30px 45px;
+  font-size: 3rem;
+  background-color: #be8dc0;
+  font-family: sans-serif;
+  border: none;
+}
