@@ -1,4 +1,4 @@
-// Day 12 - Project 1: Bank Account Handler System
+// Day 12 - Project 2: Bank Account Handler System
 
 class BankUsers {
   constructor(owner, balance = 0) {
