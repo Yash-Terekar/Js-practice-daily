@@ -17,9 +17,9 @@ This is my daily journey to master core JavaScript with real-world logic, proble
 
 ## 📆 Daily Progress Breakdown
 
-| Day       | Topic                                                   | Status |
-| --------- | ------------------------------------------------------- | ------ |
-| ✅ Day 1  | Conditionals (if-else, nested logic)                    |
+| Day       | Topic                                                   | 
+| --------- | ------------------------------------------------------- | 
+| ✅ Day 1  | Conditionals (if-else, nested logic)                    | 
 | ✅ Day 2  | Loops & Logical Thinking                                |
 | ✅ Day 3  | Arrays & Objects                                        |
 | ✅ Day 4  | Combined Logic Practice                                 |
