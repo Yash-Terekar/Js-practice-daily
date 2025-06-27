@@ -16,7 +16,7 @@ class Character {
 }
 
 const hero = new Character("Hero", 100, 10);
-const villain = new Character("Villain", 100, 12);
+const villain = new Character("Villain", 100, 8);
 
 while (hero.health > 0 && villain.health > 0) {
   hero.attack(villain);
