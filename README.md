@@ -17,9 +17,9 @@ This is my daily journey to master core JavaScript with real-world logic, proble
 
 ## 📆 Daily Progress Breakdown
 
-| Day       | Topic                                                   | 
-| --------- | ------------------------------------------------------- | 
-| ✅ Day 1  | Conditionals (if-else, nested logic)                    | 
+| Day       | Topic                                                   |
+| --------- | ------------------------------------------------------- |
+| ✅ Day 1  | Conditionals (if-else, nested logic)                    |
 | ✅ Day 2  | Loops & Logical Thinking                                |
 | ✅ Day 3  | Arrays & Objects                                        |
 | ✅ Day 4  | Combined Logic Practice                                 |
@@ -31,7 +31,7 @@ This is my daily journey to master core JavaScript with real-world logic, proble
 | ✅ Day 10 | DOM Manipulation (Events, Selectors, Append, etc.)      |
 | ✅ Day 11 | GSAP + Vanilla JS Animations                            |
 | ✅ Day 12 | OOP in JS (Classes, Inheritance, Objects)               |
-| 🔜 Day 13 | Callback & Promises                                     |
+| ✅ Day 13 | Callback & Promises                                     |
 | 🔜 Day 14 | Async-Await + Fetch + JSON                              |
 
 ---
