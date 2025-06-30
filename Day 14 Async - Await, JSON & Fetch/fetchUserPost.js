@@ -9,7 +9,7 @@ async function fetchUserPosts() {
     const posts = await data.json();
     posts.forEach((post) => {
       console.log(`Title: ${post.title},`);
-      console.log(`Body: ${post.body}`);
+      console.log(`Body : ${post.body}`);
       console.log(`---------------------------------`);
     });
   } catch (err) {
